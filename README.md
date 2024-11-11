@@ -2,7 +2,9 @@
 
 This is a compilation of materials including lecture notes, assignments, and solutions etc. for the course HURST COMP3711 Design and Analysis of Algorithms
 
+
 [Course Introduction]:
+
 This course presents the fundamental techniques for designing efficient computer algorithms, proving their correctness, and analyzing their running times. General topics include mathematical analysis of algorithms (summations and recurrences), advanced data structures (balanced search trees), algorithm design techniques (divide-and-conquer, dynamic programming, and greedy algorithms), graph algorithms (breadth-first and depth-first search, minimum spanning trees, shortest paths).
 
 On successful completion of this course, students are expected to be able to (intended learning outcomes):
